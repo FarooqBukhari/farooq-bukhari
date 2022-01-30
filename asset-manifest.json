@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/farooq-bukhari/static/css/main.073c9b0a.css",
-    "main.js": "/farooq-bukhari/static/js/main.6e78f286.js",
-    "static/js/787.3f154fdb.chunk.js": "/farooq-bukhari/static/js/787.3f154fdb.chunk.js",
-    "static/media/logo.svg": "/farooq-bukhari/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/farooq-bukhari/index.html",
-    "main.073c9b0a.css.map": "/farooq-bukhari/static/css/main.073c9b0a.css.map",
-    "main.6e78f286.js.map": "/farooq-bukhari/static/js/main.6e78f286.js.map",
-    "787.3f154fdb.chunk.js.map": "/farooq-bukhari/static/js/787.3f154fdb.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.84e000dc.js",
+    "static/js/787.3f154fdb.chunk.js": "/static/js/787.3f154fdb.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.84e000dc.js.map": "/static/js/main.84e000dc.js.map",
+    "787.3f154fdb.chunk.js.map": "/static/js/787.3f154fdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6e78f286.js"
+    "static/js/main.84e000dc.js"
   ]
 }
